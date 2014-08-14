@@ -1,0 +1,17 @@
+<?php
+return array(
+    'zf-oauth2' => array(
+        'configuration' => array(
+            'user_entity' => 'TheNamespace\Of\Your\UserEntity',
+        ),
+    ),
+    'doctrine' => array(
+        'entity_resolver' => array(
+            'orm_default' => array(
+                'resolvers' => array(
+                    'LdcZfOAuth2Doctrine\Entity\UserEntity' => 'TheNamespace\Of\Your\UserEntity',
+                ),
+            ),
+        ),
+    ),
+);

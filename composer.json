@@ -1,0 +1,14 @@
+{
+    "name": "adamlundrigan/ldc-zf-oauth2-doctrine",
+    "description": "zf-oauth2 adapter for use with Doctrine ORM",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Adam Lundrigan",
+            "email": "adam@lundrigan.ca"
+        }
+    ],
+    "require": {
+        "zfcampus/zf-oauth2": "1.*@stable"
+    }
+}
