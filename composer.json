@@ -10,5 +10,11 @@
     ],
     "require": {
         "zfcampus/zf-oauth2": "1.*@stable"
+    },
+    "autoload": {
+        "psr-4": {
+            "LdcZfOAuth2Doctrine\\": "src/"
+        },
+        "files": ["Module.php"]
     }
 }
