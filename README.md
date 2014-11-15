@@ -4,7 +4,7 @@ LdcZfOAuth2Doctrine
 ---
 [![Latest Stable Version](https://poser.pugx.org/adamlundrigan/ldc-zf-oauth2-doctrine/v/stable.svg)](https://packagist.org/packages/adamlundrigan/ldc-zf-oauth2-doctrine) [![Total Downloads](https://poser.pugx.org/adamlundrigan/ldc-zf-oauth2-doctrine/downloads.svg)](https://packagist.org/packages/adamlundrigan/ldc-zf-oauth2-doctrine) [![Latest Unstable Version](https://poser.pugx.org/adamlundrigan/ldc-zf-oauth2-doctrine/v/unstable.svg)](https://packagist.org/packages/adamlundrigan/ldc-zf-oauth2-doctrine) [![License](https://poser.pugx.org/adamlundrigan/ldc-zf-oauth2-doctrine/license.svg)](https://packagist.org/packages/adamlundrigan/ldc-zf-oauth2-doctrine)
 [![Build Status](https://travis-ci.org/adamlundrigan/LdcZfOAuth2Doctrine.svg?branch=master)](https://travis-ci.org/adamlundrigan/LdcZfOAuth2Doctrine)
-[![Code Coverage](https://scrutinizer-ci.com/g/adamlundrigan/LdcZfOAuth2Doctrine/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Ocramius/Instantiator/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/adamlundrigan/LdcZfOAuth2Doctrine/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/adamlundrigan/LdcZfOAuth2Doctrine/?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/adamlundrigan/LdcZfOAuth2Doctrine/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/adamlundrigan/LdcZfOAuth2Doctrine/?branch=master)
 
 ---
